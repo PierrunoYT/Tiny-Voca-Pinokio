@@ -1,0 +1,2 @@
+gradio
+tiny-voca[own] @ git+https://github.com/n4ze3m/tiny-voca
